@@ -25,6 +25,7 @@ body {
   border-bottom: 1px white solid;
 
 }
+
 @media only screen and (min-width: 60em) {
 
   .unit:nth-child(2),
@@ -35,4 +36,6 @@ body {
 
   .unit:last-child {
     border-bottom: none;
+  }
+
 }
